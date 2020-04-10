@@ -3,6 +3,11 @@ class Menu extends Phaser.Scene {
         super("menuScene");
     }
 
+    preload(){
+
+
+    }
+
     create(){
         //this references the scene that we are making (menu)
         //displays menu text
